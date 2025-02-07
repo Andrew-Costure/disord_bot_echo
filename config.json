@@ -1,0 +1,51 @@
+{
+  "webhookURL": "https://discord.com/api/webhooks/1336563505951674368/Ca8vhOydcJ2o37V-j4V2YouPGPq-0ffQffKDS1iVx3kmJiGyDQQzrw4MVrULcMBRECSI",
+  "webhookListenURL" : "https://discord.com/channels/1336562715669303339/1336770207523278888",
+  "redirects": [
+    {
+      "sources": [
+        "1336562716265156662",
+        "1336749408162676786"
+      ],
+      "destinations": [
+        "1336749461682257980"
+      ],
+      "options": {
+        "title": "New Copied Message",
+        "richEmbed": true,
+        "richEmbedColor": 30975,
+        "includeSource": true,
+        "removeEveryone": true,
+        "removeHere": true,
+        "copyRichEmbed": true,
+        "copyAttachments": true,
+        "accurateImage": true,
+        "minLength": 0,
+        "allowList": []
+      }
+    },
+    {
+      "sources": [
+          "1336562716265156662",
+        "1336749408162676786"
+      ],
+      "destinations": [
+        "1336770207523278888"
+      ],
+      "options": {
+          "title": "New Copied Message",
+          "richEmbed": true,
+          "richEmbedColor": 30975,
+          "includeSource": true,
+          "removeEveryone": true,
+          "removeHere": true,
+          "copyRichEmbed": true,
+          "copyAttachments": true,
+          "accurateImage": true,
+          "minLength": 0,
+          "allowList": []
+      }
+  }
+    
+  ]
+}
