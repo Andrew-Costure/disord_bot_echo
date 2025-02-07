@@ -1,0 +1,22 @@
+2025-02-05T18:09:33.563Z [ERROR]: Error: Invalid webhook url "1336749461682257980"
+    at D:\discord-echobot-justin-forwarder\bin\config\config.js:73:23
+    at Array.map (<anonymous>)
+    at checkRedirectModel (D:\discord-echobot-justin-forwarder\bin\config\config.js:64:55)
+    at checkConfiguration (D:\discord-echobot-justin-forwarder\bin\config\config.js:43:9)
+    at D:\discord-echobot-justin-forwarder\bin\config\config.js:22:9
+    at Array.forEach (<anonymous>)
+    at Object.loadConfiguration (D:\discord-echobot-justin-forwarder\bin\config\config.js:21:13)
+    at main (D:\discord-echobot-justin-forwarder\bin\echobot.js:36:28)
+    at Object.<anonymous> (D:\discord-echobot-justin-forwarder\bin\echobot.js:154:1)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+2025-02-05T18:11:29.462Z [ERROR]: Error: No Bot configuration items were found. Please Make sure to have at least one
+    at Object.loadConfiguration (D:\discord-echobot-justin-forwarder\bin\config\config.js:20:15)
+    at main (D:\discord-echobot-justin-forwarder\bin\echobot.js:36:28)
+    at Object.<anonymous> (D:\discord-echobot-justin-forwarder\bin\echobot.js:154:1)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
